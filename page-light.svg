@@ -94,12 +94,12 @@
         }
 
         .container {
-          animation: fadeIn 5s ease-in;
+          animation: fadeIn 3s ease-in;
         }
 
         .graph {
           position: absolute;
-          animation: scroll 18s 4s ease-in-out alternate infinite;
+          animation: scroll 27s 2s ease-in-out alternate infinite;
         }
       </style>
 
