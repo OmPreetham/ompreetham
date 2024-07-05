@@ -94,7 +94,7 @@
         }
 
         .container {
-          animation: fadeIn 3s ease-in;
+          animation: fadeIn 4s ease-in;
         }
 
         .graph {
@@ -118,320 +118,474 @@
           <!-- Week 1 -->
           <div class="year">
             <div class="week">
-              <div class="day-1 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-2 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
-              <div class="day-3 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-4 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-5 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-6 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-7 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
             <!-- Week 2 -->
             <div class="week">
-              <div class="day-8 square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
-              <div class="day-9 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-10 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-11 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-12 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
-              <div class="day-13 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-14 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
             </div>
             <!-- Week 3 -->
             <div class="week">
-              <div class="day-15 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-16 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-17 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
-              <div class="day-18 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-19 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-20 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-21 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color:  rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
             <!-- Week 4 -->
             <div class="week">
-              <div class="day-22 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
-              <div class="day-23 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-24 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-25 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-26 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-27 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
-              <div class="day-28 square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
             </div>
             <!-- Week 5 -->
             <div class="week">
-              <div class="day-29 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-30 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
               <!-- Additional squares with light gray -->
-              <div class="day-31 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-32 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-33 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-34 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-35 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
             </div>
-            <!-- Week 6 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-36 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-37 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-38 square" style="background-color: rgba(138, 43, 226, 0.3);"></div>
-              <div class="day-39 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-40 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-41 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-42 square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
             </div>
-            <!-- Week 7 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-43 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
-              <div class="day-44 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-45 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-46 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-47 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-48 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-49 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
             </div>
-            <!-- Week 8 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-50 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-51 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-52 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-53 square" style="background-color: rgba(138, 43, 226, 0.3);"></div>
-              <div class="day-54 square" style="background-color: rgba(138, 43, 226, 0.2);"></div>
-              <div class="day-55 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-56 square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
             </div>
-            <!-- Week 9 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-57 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-58 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-59 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-60 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-61 square" style="background-color: rgba(138, 43, 226, 0.3);"></div>
-              <div class="day-62 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-63 square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
             </div>
-            <!-- Week 10 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-64 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-65 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-66 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-67 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-68 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-69 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-70 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
             </div>
-            <!-- Week 11 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-71 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-72 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-73 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-74 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-75 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-76 square" style="background-color: rgba(138, 43, 226, 0.2);"></div>
-              <div class="day-77 square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
             </div>
-            <!-- Week 12 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-78 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-79 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-80 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-81 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-82 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-83 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
-              <div class="day-84 square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 13 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-85 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-86 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-87 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-88 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-89 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-90 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-91 square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
             </div>
-            <!-- Week 14 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-92 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-93 square" style="background-color: rgba(138, 43, 226, 0.2);"></div>
-              <div class="day-94 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-95 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-96 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-97 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-98 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
             </div>
-            <!-- Week 15 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-99 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-100 square" style="background-color: rgba(138, 43, 226, 0.3);"></div>
-              <div class="day-101 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-102 square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
-              <div class="day-103 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-104 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
-              <div class="day-105 square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
             </div>
-            <!-- Week 16 -->
+            <!-- Week 1-->
             <div class="week">
-              <div class="day-106 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-107 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
-              <div class="day-108 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-109 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-110 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-111 square" style="background-color: rgba(138, 43, 226, 0.2);"></div>
-              <div class="day-112 square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 17 -->
+            <!-- Week 1-->
             <div class="week">
-              <div class="day-113 square" style="background-color: #f5f5f5"></div>
-              <div class="day-114 square" style="background-color: #f5f5f5"></div>
-              <div class="day-115 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-116 square" style="background-color: #f5f5f5"></div>
-              <div class="day-117 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-118 square" style="background-color: #f5f5f5"></div>
-              <div class="day-119 square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: #f5f5f5"></div>
             </div>
-            <!-- Week 18 -->
+            <!-- Week 1-->
             <div class="week">
-              <div class="day-120 square" style="background-color: #f5f5f5"></div>
-              <div class="day-121 square" style="background-color: #f5f5f5"></div>
-              <div class="day-122 square" style="background-color: #f5f5f5"></div>
-              <div class="day-123 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-124 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
-              <div class="day-125 square" style="background-color: #f5f5f5"></div>
-              <div class="day-126 square" style="background-color: rgba(138, 43, 226, 0.2);"></div>
+              <div class="square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4)"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8)"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 19 -->
+            <!-- Week 1-->
             <div class="week">
-              <div class="day-127 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-128 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
-              <div class="day-129 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
-              <div class="day-130 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-131 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-132 square" style="background-color: #f5f5f5"></div>
-              <div class="day-133 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 20 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-134 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-135 square" style="background-color: #f5f5f5"></div>
-              <div class="day-136 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
-              <div class="day-137 square" style="background-color: #f5f5f5"></div>
-              <div class="day-138 square" style="background-color: #f5f5f5"></div>
-              <div class="day-139 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-140 square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 21 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-141 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-142 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-143 square" style="background-color: #f5f5f5"></div>
-              <div class="day-144 square" style="background-color: #f5f5f5"></div>
-              <div class="day-145 square" style="background-color: #f5f5f5"></div>
-              <div class="day-146 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
-              <div class="day-147 square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 22 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-148 square" style="background-color: #f5f5f5"></div>
-              <div class="day-149 square" style="background-color: #f5f5f5"></div>
-              <div class="day-150 square" style="background-color: #f5f5f5"></div>
-              <div class="day-151 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
-              <div class="day-152 square" style="background-color: #f5f5f5"></div>
-              <div class="day-153 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
-              <div class="day-154 square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 23 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-155 square" style="background-color: #f5f5f5"></div>
-              <div class="day-156 square" style="background-color: #f5f5f5"></div>
-              <div class="day-157 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-158 square" style="background-color: #f5f5f5"></div>
-              <div class="day-159 square" style="background-color: #f5f5f5"></div>
-              <div class="day-160 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-161 square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
             </div>
-            <!-- Week 24 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-162 square" style="background-color: #f5f5f5"></div>
-              <div class="day-163 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-164 square" style="background-color: #f5f5f5"></div>
-              <div class="day-165 square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
-              <div class="day-166 square" style="background-color: #f5f5f5"></div>
-              <div class="day-167 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-168 square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 25 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-169 square" style="background-color: #f5f5f5"></div>
-              <div class="day-170 square" style="background-color: #f5f5f5"></div>
-              <div class="day-171 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-172 square" style="background-color: #f5f5f5"></div>
-              <div class="day-173 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-174 square" style="background-color: rgba(138, 43, 226, 0.3);"></div>
-              <div class="day-175 square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 26 -->
+            <!-- Week 2-->
             <div class="week">
-              <div class="day-176 square" style="background-color: #f5f5f5"></div>
-              <div class="day-177 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-178 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-179 square" style="background-color: #f5f5f5"></div>
-              <div class="day-180 square" style="background-color: #f5f5f5"></div>
-              <div class="day-181 square" style="background-color: #f5f5f5"></div>
-              <div class="day-182 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
+              <div class="square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4)"></div>
+              <div class="square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4)"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 27 -->
+            <!-- Week 2-->
             <div class="week">
-              <div class="day-183 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
-              <div class="day-184 square" style="background-color: #f5f5f5"></div>
-              <div class="day-185 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-186 square" style="background-color: #f5f5f5"></div>
-              <div class="day-187 square" style="background-color: #f5f5f5"></div>
-              <div class="day-188 square" style="background-color: rgba(138, 43, 226, 0.3);"></div>
-              <div class="day-189 square" style="background-color: #f5f5f5"></div>
+              <div class="183 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="184 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="185 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
             </div>
-            <!-- Week 28 -->
+            <!-- Week 2-->
             <div class="week">
-              <div class="day-190 square" style="background-color: #f5f5f5"></div>
-              <div class="day-191 square" style="background-color: #f5f5f5"></div>
-              <div class="day-192 square" style="background-color: #f5f5f5"></div>
-              <div class="day-193 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-194 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-195 square" style="background-color: #f5f5f5"></div>
-              <div class="day-196 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 29 -->
+            <!-- Week 2-->
             <div class="week">
-              <div class="day-197 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-198 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-199 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-200 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-201 square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
-              <div class="day-202 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-203 square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 30 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-204 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-205 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-206 square" style="background-color: rgba(138, 43, 226, 0.7);"></div>
-              <div class="day-207 square" style="background-color: #f5f5f5;"></div>
-              <div class="day-208 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-209 square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
-              <div class="day-210 square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
-            <!-- Week 31 -->
+            <!-- Week -->
             <div class="week">
-              <div class="day-211 square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
-              <div class="day-212 square" style="background-color: #f5f5f5"></div>
-              <div class="day-213 square" style="background-color: rgba(138, 43, 226, 0.5);"></div>
-              <div class="day-214 square" style="background-color: #f5f5f5"></div>
-              <div class="day-215 square" style="background-color: #f5f5f5"></div>
-              <div class="day-216 square" style="background-color: rgba(138, 43, 226, 0.9);"></div>
-              <div class="day-217 square" style="background-color: #f5f5f5"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 1);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.8);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+            </div>
+
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.6);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: #f5f5f5;"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
+              <div class="square" style="background-color: rgba(138, 43, 226, 0.4);"></div>
             </div>
           </div>
         </div>
         <div class="title">
-          <p>2025</p>
-          <p>2025</p>
+          <p>Aug, 2023</p>
+          <p>Jul, 2024</p>
         </div>
       </div>
     </div>
