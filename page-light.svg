@@ -5,10 +5,10 @@
         :root {
           --hue-basic: #f5f5f5;
           --hue-border: #ececec;
-          --hue-light: rgba(138, 43, 226, 0.4);
-          --hue-medium: rgba(138, 43, 226, 0.6);
-          --hue-dark: rgba(138, 43, 226, 0.8);
-          --hue-very-dark: rgba(138, 43, 226, 1);
+          --hue-light: rgba(0, 94, 255, 0.4);
+          --hue-medium: rgba(0, 94, 255, 0.6);
+          --hue-dark: rgba(0, 94, 255, 0.8);
+          --hue-very-dark: rgba(0, 94, 255, 1);
 
           font-family: monospace;
           color: var(--hue-medium)
@@ -117,7 +117,7 @@
           <p>social/ @OmPreetham</p>
         </article>
         <p><strong>Bandi, Om Preetham</strong>, a software developer originally from India, later moved to the USA. He
-          specializes in <i>web x app</i> development. He's currently a Grader at Texas A &amp; M University
+          specializes in <i>web x app</i> development. He's currently a Grader at Texas A&amp;M University
           -- Corpus Christi.</p>
       </div>
       <div class="graph">
