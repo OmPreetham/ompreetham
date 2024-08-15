@@ -106,7 +106,7 @@
 
         .graph {
           position: absolute;
-          animation: scroll 27s 2s ease-in-out alternate infinite;
+          animation: scroll 36s 2s ease-in-out alternate infinite;
         }
       </style>
 
@@ -646,7 +646,7 @@
         </div>
         <div class="title">
           <p>Aug, 2023</p>
-          <p>Jul, 2024</p>
+          <p>Aug, 2024</p>
         </div>
       </div>
     </div>
