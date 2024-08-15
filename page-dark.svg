@@ -588,6 +588,60 @@
               <div class="square" style="background-color: var(--hue-light);"></div>
               <div class="square" style="background-color: var(--hue-light);"></div>
             </div>
+            <div class="week">
+              <div class="square" style="background-color: var(--hue-basic);"></div>
+              <div class="square" style="background-color: var(--hue-basic);"></div>
+              <div class="square" style="background-color: var(--hue-basic);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-medium);"></div>
+              <div class="square" style="background-color: var(--hue-very-dark);"></div>
+              <div class="square" style="background-color: var(--hue-dark);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: var(--hue-medium);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-medium);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-medium);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-medium);"></div>
+              <div class="square" style="background-color: var(--hue-basic);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-basic);"></div>
+              <div class="square" style="background-color: var(--hue-basic);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-basic);"></div>
+              <div class="square" style="background-color: var(--hue-medium);"></div>
+              <div class="square" style="background-color: var(--hue-medium);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-dark);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: var(--hue-dark);"></div>
+              <div class="square" style="background-color: var(--hue-basic);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-basic);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+            </div>
+            <div class="week">
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-basic);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+              <div class="square" style="background-color: var(--hue-light);"></div>
+            </div>
           </div>
         </div>
         <div class="title">
